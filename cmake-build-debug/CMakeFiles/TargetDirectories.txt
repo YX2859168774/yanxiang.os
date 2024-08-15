@@ -1,3 +1,3 @@
-/home/yanxiang/CLionProjects/yanxiang_X86_OS/cmake-build-debug/CMakeFiles/yanxiang_X86_OS.dir
-/home/yanxiang/CLionProjects/yanxiang_X86_OS/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/yanxiang/CLionProjects/yanxiang_X86_OS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yanxiang/CLionProjects/yanxiang_os/cmake-build-debug/CMakeFiles/yanxiang_X86_OS.dir
+/home/yanxiang/CLionProjects/yanxiang_os/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yanxiang/CLionProjects/yanxiang_os/cmake-build-debug/CMakeFiles/rebuild_cache.dir

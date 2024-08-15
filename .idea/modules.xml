@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/yanxiang_X86_OS.iml" filepath="$PROJECT_DIR$/.idea/yanxiang_X86_OS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/yanxiang_os.iml" filepath="$PROJECT_DIR$/.idea/yanxiang_os.iml" />
     </modules>
   </component>
 </project>

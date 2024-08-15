@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/yanxiang/CLionProjects/yanxiang_X86_OS/cmake-build-debug"
+			"value" : "/home/yanxiang/CLionProjects/yanxiang_os/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/yanxiang/CLionProjects/yanxiang_X86_OS/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/yanxiang/CLionProjects/yanxiang_os/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/yanxiang/CLionProjects/yanxiang_X86_OS"
+			"value" : "/home/yanxiang/CLionProjects/yanxiang_os"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1035,7 +1035,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/yanxiang/CLionProjects/yanxiang_X86_OS/cmake-build-debug"
+			"value" : "/home/yanxiang/CLionProjects/yanxiang_os/cmake-build-debug"
 		},
 		{
 			"name" : "yanxiang_X86_OS_IS_TOP_LEVEL",
@@ -1059,7 +1059,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/yanxiang/CLionProjects/yanxiang_X86_OS"
+			"value" : "/home/yanxiang/CLionProjects/yanxiang_os"
 		}
 	],
 	"kind" : "cache",

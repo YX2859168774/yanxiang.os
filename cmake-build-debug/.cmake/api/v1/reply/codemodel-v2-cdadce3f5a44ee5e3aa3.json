@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/yanxiang/CLionProjects/yanxiang_X86_OS/cmake-build-debug",
-		"source" : "/home/yanxiang/CLionProjects/yanxiang_X86_OS"
+		"build" : "/home/yanxiang/CLionProjects/yanxiang_os/cmake-build-debug",
+		"source" : "/home/yanxiang/CLionProjects/yanxiang_os"
 	},
 	"version" : 
 	{
